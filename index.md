@@ -1,7 +1,7 @@
 layout: default
 title: Skye Lickteig - Academic Portfoloio
 
-![Featured Image] (assets/featured-image.jpg)
+(/assets/featured-image.jpg)
 
 # Skye Lickteig
 ## Texts and Technology, PhD student - Anime and Cultural Understanding
@@ -33,5 +33,5 @@ My research will be geared towards finding or creating a pedagogic means for usi
 
 ### Follow me
 
-- [Linkedin] (https//linkedin.com/in/skye.lickteig)
-- [GitHub] (https://github.com/Si519922)
+- (https//linkedin.com/in/skye.l)
+- (https://github.com/Si519922)
