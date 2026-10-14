@@ -1,10 +1,7 @@
-# my-academic-portfolio/
----
 layout: default
 title: Skye Lickteig - Academic Portfoloio
----
 
-![image alt](featured-image.jpg)
+![[featured-image.jpg]](https://)
 
 # Skye Lickteig
 ## Texts and Technology, PhD student - Anime and Cultural Understanding
@@ -28,7 +25,7 @@ My research will be geared towards finding or creating a pedagogic means for usi
  Historical Art to Modern Art Comparison
  Cultural Understand and Cultural Exchange
 
- ### Publicayions and/or concerences
+ ### Publications and/or conferences
 
  ### Contact
  - Email: Skye.Lickteig@ucf.edu
