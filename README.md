@@ -3,7 +3,7 @@
 layout: default
 title: Skye Lickteig - Academic Portfoloio
 
-[assets(featured-image.jpg)]
+[!image alt](featured-image.jpg)
 
 # Skye Lickteig
 ## Texts and Technology, PhD student - Anime and Cultural Understanding
