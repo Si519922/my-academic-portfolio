@@ -1,7 +1,8 @@
 # my-academic-portfolio/
-
+---
 layout: default
 title: Skye Lickteig - Academic Portfoloio
+---
 
 ![image alt](featured-image.jpg)
 
