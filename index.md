@@ -1,5 +1,7 @@
+---
 layout: default
-title: Skye Lickteig - Academic Portfoloio
+title: Teaching Experience
+---
 
 ![Featured Image](assets/featured-image.jpg.jpg)
 
