@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Teaching Experience
+title: Skye Lickteig - Academic Portfolio
 ---
 
-![Featured Image](assets/featured-image.jpg.jpg)
+![Featured Image](/assets/featured-image.jpg.jpg) 
 
 # Skye Lickteig
 ## Texts and Technology, PhD student - Anime and Cultural Understanding
@@ -22,14 +22,14 @@ While in Japan, I had many individuals mention to me that they visited the USA d
 
 My research will be geared towards finding or creating a pedagogic means for using that realistic cultural representation to share Japanese culture with anyone who is interested in learning about it, and hopefully, that will be foundational in a ripple effect of teaching culture via modern film technologies. 
 
- ### Research Interests
+### Research Interests
  Novel to Animation Adaptations
  Historical Art to Modern Art Comparison
  Cultural Understand and Cultural Exchange
 
- ### Publications and/or conferences
+### Publications and/or conferences
 
- ### Contact
+### Contact
  - Email: Skye.Lickteig@ucf.edu
  - Office: Orlando, Florida
 
