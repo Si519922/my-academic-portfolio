@@ -23,9 +23,9 @@ While in Japan, I had many individuals mention to me that they visited the USA d
 My research will be geared towards finding or creating a pedagogic means for using that realistic cultural representation to share Japanese culture with anyone who is interested in learning about it, and hopefully, that will be foundational in a ripple effect of teaching culture via modern film technologies. 
 
 ### Research Interests
- Novel to Animation Adaptations
- Historical Art to Modern Art Comparison
- Cultural Understand and Cultural Exchange
+- Novel to Animation Adaptations
+- Historical Art to Modern Art Comparison
+- Cultural Understand and Cultural Exchange
 
 ### Publications and/or conferences
 
@@ -35,5 +35,5 @@ My research will be geared towards finding or creating a pedagogic means for usi
 
 ### Follow me
 
-- (https://www.linkedin.com/in/skye-lickteig/)
-- (https://github.com/Si519922)
+- https://www.linkedin.com/in/skye-lickteig/
+- https://github.com/Si519922
