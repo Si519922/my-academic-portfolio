@@ -11,4 +11,4 @@ title: Projects
 
 ## Project 2 
 - Traka Box installation, organization, key order and number reassignment 
-- Traka and Qualtrics coupled iwth dnaFusion
+- Traka and Qualtrics coupled with dnaFusion
