@@ -5,7 +5,7 @@ title: CV
 
 # CV 
 
-**Skye Lickteig**
+## Skye Lickteig
 
 \-  Skye.Lickteig@ucf.edu
 
@@ -19,12 +19,12 @@ facilities coordination. Seeks to enhance student success and
 operational efficiency through process improvements and clear
 communication.
 
-**Work Experience:**
+## Work Experience:
 
 **March 2023 -- Present, UCF COM BSBS - Orlando, Florida -
 Administrative Coordinator I**
 
-**Job Duties:**
+## Job Duties:
 
 - Classroom Scheduling with registrar's office to correlate with
 curriculum choreography in conjunction with the Academic Advising office
@@ -65,7 +65,7 @@ and coordinates completion of utility cart safety training.
 **March 2018 -- November 2022, Progress International - Fukuoka City,
 Japan - English Teacher**
 
-**Job Duties:**
+## Job Duties:
 
 - Taught English as a foreign language to diverse age groups of both
 classes and individuals
@@ -100,7 +100,7 @@ fourth grade classes
 **March 2016 -- March 2018, Kyushu University - Fukuoka City, Japan -
 Student Assistant**
 
-**Job Duties:**
+## Job Duties:
 
 - Completed book scans and data entry for the MA program
 
@@ -134,7 +134,7 @@ degree
 **December 2010 - September 2015, UCF Facilities - Orlando, Florida -
 Custodian**
 
-**Job Duties:**
+## Job Duties:
 
 - Clean and stock common areas, including restrooms, sinks,
 showers/tubs, toilets, stalls, receptacles, mirrors, windows, and
@@ -158,7 +158,7 @@ tile, VCT, etc.)
 **August 1999 - November 2010, Jonco Inc. McDonalds - Orlando, Florida -
 Store Manager**
 
-**Job Duties:**
+## Job Duties:
 
 - I was hired at 14 in 1999 to be the birthday party coordinator and
 worked only on weekends. Through the years I worked my way up to store
@@ -200,14 +200,14 @@ and minor repairs
 troubleshoot and train both management and staff on how to correct
 operational inequities
 
-**Education:**
+## Education:
 - PhD: Texts and Technology - university of Central Florida - 2026-in
 progress
 - MA: Japanese Humanities - Kyushu University, Japan - 2015-2017
 - BA: Classical Humanities, Minor: Religion - University of Central
 Florida - 2011-2015
 
-**Skills:**
+## Skills:
 
 \- Academic advising support
 \- Attention to detail
@@ -222,12 +222,12 @@ Florida - 2011-2015
 \- PeopleSoft expertise
 \- MKS experience
 \- Qualtrics
-\-  Ad Astra expertise
+\- Ad Astra expertise
 \- Problem solving
 \- University operations
 \- WorkDay proficiency
 
-**Languages:**
-- Native level - American English- Intermediate level 
-- Japanese
+## Languages:
+- Native level - American English 
+- Intermediate level - Japanese
 - Intermediate level - Spanish
